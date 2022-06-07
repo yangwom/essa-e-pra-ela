@@ -34,6 +34,7 @@ function App() {
           manoooo quando vi ela pela primeira vez meu coração vibrou, me apaixonei por cada detalhe quando olhava ela meu sentimento não
           negava, mas emfim fui soldado orgulhoso que chegou no olimpo e conheceu essa <strong>divindade da beleza.</strong>
         </p>
+         <footer> <p style={{ color: 'pink' }}>Esse poema foi feito diretamente para carol santana</p></footer>
       </div>
 
     </div>
