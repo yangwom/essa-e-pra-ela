@@ -34,14 +34,14 @@ header {
   }
 
   .poema {
-    font-size: 10px;
+    font-size: 12px;
     width: 100%;
     display: flex;
     flex-flow: column;
     padding-top: 100px;
   }
   .poema2 {
-    font-size: 10px;
+    font-size: 12px;
     width: 100%;
     display: flex;
     flex-flow: column;
