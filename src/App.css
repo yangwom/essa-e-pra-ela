@@ -1,10 +1,10 @@
 header {
-width: 100%;
-position: fixed;
-background-color: pink;
-text-align: center;
-padding: 15px 15px;
-font-size: 15px;
+  width: 100%;
+  position: fixed;
+  background-color: pink;
+  text-align: center;
+  padding: 15px 15px;
+  font-size: 15px;
 }
 
 .poema {
@@ -12,4 +12,10 @@ font-size: 15px;
   display: flex;
   flex-flow: column;
   padding-top: 100px;
+}
+.poema2 {
+  width: 100%;
+  display: flex;
+  flex-flow: column;
+  padding-top: 30px;
 }
