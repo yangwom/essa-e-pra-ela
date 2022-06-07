@@ -1,11 +1,12 @@
 import './App.css';
-
 function App() {
   return (
     <div>
-      <header>
+      <header className="image">
         <h1>Essa é pra ela</h1>
       </header>
+      <div>
+         <img src="../CarolMobile.png" alt=""/>
       <div className='poema'>
         <h2> Onde tudo começou</h2>
         <p>Um certo dia as 11:40 da manhã precisava ir no centro renovar meu cartão do onibus, no
@@ -36,7 +37,7 @@ function App() {
         </p>
          <footer> <p style={{ color: 'pink' }}>Esse poema foi feito diretamente para carol santana</p></footer>
       </div>
-
+      </div>
     </div>
   );
 }
